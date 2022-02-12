@@ -1,4 +1,5 @@
-👋 Hi, I’m @Kaimakan71.
-
-I’m interested in making efficient code for the web and always using the best methods and practices.
-I also do some C++ programming but most large projects I make are in JavaScript, HTML, and CSS (sometimes I do Node.js)
+# 👋 Hi, I’m @Kaimakan71.
+#### I like to write fast, efficient code in Node.JS, HTML/CSS/JS, and C++
+## Check out my latest projects:
+[turbo](https://github.com/Kaimakan71/turbo): the fastest plugin-able HTTP server money can buy for $0, with 0 dependencies.<br>
+Yes, we rewrote node standard library http.
